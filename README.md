@@ -1,12 +1,12 @@
 # Next Departure Information Fetcher
 
-This Python script is designed to fetch the next departure information for a specific destination from a public transportation API. It queries the API for departures from a specified station, filters the departures for a given destination, and formats the departure times before returning the next departure details in JSON format.
+This Python script is designed to fetch the next departure information for a specific destination from a public transportation API(No API key needed). It queries the API for departures from a specified station, direction, line, transportation method and filters the departures for a given destination, and formats the departure times before returning the next departure details in JSON format.
 
 ## Features
 - Fetch departure information from a specified URL.
 - Filter departures by destination.
 - Format departure times.
-- Return the next departure information as JSON.
+- Return the two next departure information as JSON.
 
 ## Requirements
 - Python 3.x
