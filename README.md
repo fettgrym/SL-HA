@@ -33,6 +33,7 @@ Change the variable `DESTINATION`to the name of your station(Not the ID).
 ```bash
 python sl_departures.py
 ```
+<img width="1181" alt="image" src="https://github.com/fettgrym/SL-HA/assets/15312902/5e7faf9f-3f14-47dd-8c83-82b63e07d3ea">
 
 ## Functions
 - `get_departures(headers, url)`: Fetches departure data from the specified URL using the provided headers.
